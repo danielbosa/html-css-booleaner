@@ -80,22 +80,17 @@ aside>h4{
     color: gray;
 }
 
-aside{
-    color: white;
+.aside-element{
+    background-size: contain;
+    height: 150px;
+    background-repeat: no-repeat;
+    margin-bottom: 1%;
 }
 
-.aside-1{
+#img1{
     background-image: url(../img/monitor.jpg);
-    background-size: contain;
-    height: 150px;
-    background-repeat: no-repeat;
-    margin-bottom: 1%;
 }
 
-.aside-2{
+#img2{
     background-image: url(../img/graph.jpg);
-    background-size: contain;
-    height: 150px;
-    background-repeat: no-repeat;
-    margin-bottom: 1%;
 }
