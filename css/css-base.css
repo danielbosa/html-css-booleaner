@@ -1,13 +1,37 @@
-body{
-    margin: 0;
-}
-
 header{
-    background-color: aqua;
+    background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 35%;
 }
 
 header>img{
     width: 20%;
     padding-top: 3%;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+.author{
+    color: gray;
+    margin-bottom: 2%;
+}
+
+.name{
+    color: aqua;
+}
+
+.data{
+    color: gray;
+    font-size: 10px;
+}
+.author>h4{
+    margin-top:1%;
+    margin-bottom: 0px;
+}
+
+figcaption{
+    font-size: 12px;
 }
