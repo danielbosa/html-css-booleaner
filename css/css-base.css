@@ -6,17 +6,17 @@
 header{
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
+    padding-top: 80px;
     background-repeat: repeat;
-    background-size: 35%;
+    background-size: 30%;
 }
 
 main{
     margin: 5px;
 }
 
-header>img{
-    width: 20%;
-    padding-top: 3%;
+#logo img{
+    height: 70px;
 }
 
 h1{
@@ -55,6 +55,7 @@ ul{
 
 table{
     border-collapse: collapse;
+    text-align: left;
 }
 
 thead{
@@ -75,7 +76,7 @@ thead{
     margin-bottom: 3%;
 }
 
-aside>h4{
+aside>h2{
     color: gray;
     margin-bottom: 10px;
 }
